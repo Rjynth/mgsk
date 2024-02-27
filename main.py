@@ -14,10 +14,10 @@ def get_vacancies(keyword):
         params = {
             "text": keyword,
             "area": area,
-            "per_page": 100,  # Number of vacancies per page
+            "per_page": 100,
         }
         headers = {
-            "User-Agent": "Your User Agent",  # Replace with your User-Agent header
+            "User-Agent": "Your User Agent",
         }
 
         response = requests.get(url, params=params, headers=headers)
