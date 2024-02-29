@@ -1,0 +1,793 @@
+[
+     {
+          "Вакансия": "Senior Python developer (Django/Flask) работа в офисе",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93089691?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 300 000 ₽",
+          "Название компании": "Hyper AdTech",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Middle Программист React/django",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92627503?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "до 120 000 ₽",
+          "Название компании": "ОООИмперком",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Наставник на курс “Middle Python-разработчик”",
+          "Ссылка": "https://nevel.hh.ru/vacancy/91413225?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Яндекс Практикум",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Разработчик Python (Support)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92547040?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 70 000 ₽",
+          "Название компании": "ОООЛИГРЕС",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Middle Python backend developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93339796?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "150 000 – 220 000 ₽",
+          "Название компании": "Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Middle python developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93157975?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "AldanDev",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Middle Python developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/72687504?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "150 000 – 200 000 ₽",
+          "Название компании": "ОООСелфсек",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Team Lead Python",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93877410?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ОООПлатформикс",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Senior Backend Developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93989142?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "300 000 – 400 000 ₽",
+          "Название компании": "Radium Finance",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Middle Python developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92547113?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 100 000 ₽",
+          "Название компании": "ОООЛИГРЕС",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Backend-разработчик (Python) в финансовый блок.",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92540892?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "билайн",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Инженер-разработчик (Python, Libvirt, qemu-kvm)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93158923?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ОООДаком М",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Data инженер",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92816251?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Компания Самолет",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Инженер (Python)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/86071635?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "АОНациональная система платежных карт",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93048944?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "250 000 – 320 000 ₽",
+          "Название компании": "MIA Dev",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Системный программист / разработчик Python",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92323149?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "200 000 – 350 000 ₽",
+          "Название компании": "Carbon Soft",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Front-end разработчик (Vue.js)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93585734?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "90 000 – 150 000 ₽",
+          "Название компании": "АФК, группа компаний",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Python ментор",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92761145?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ITM-Space",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Middle Backend программист Python / Middle Python Backend Developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93238507?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 150 000 ₽",
+          "Название компании": "ИПСембаев Андрей Абайевич",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Python/C++ Software Developer (Scientific platform)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/79041274?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "The Skolkovo Institute of Science and Technology",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Главный специалист (разработка и сопровождение систем обработки информации)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93855104?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ПАОГазпром",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Architect (команда внутренней автоматизации)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93893939?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "СберМаркет Разработка",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Senior python developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93628858?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 250 000 ₽",
+          "Название компании": "B.ART",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92478871?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "180 000 – 230 000 ₽",
+          "Название компании": "ИПЗубченко Вероника Сергеевна",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Middle backend Python",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92965237?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ОООРА Дельта",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Middle Python Developer (Удалённо)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93729742?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "120 000 – 200 000 ₽",
+          "Название компании": "ИППермякова Марина Сергеевна ​​",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Junior Python разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93889123?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 60 000 ₽",
+          "Название компании": "ОООВиста",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Team lead Python",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93559599?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "350 000 – 450 000 ₽",
+          "Название компании": "Триафлай",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Backend Developer (Python)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93809121?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "HuntIT",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Python developer (remote)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93888092?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ОООАнлимитед Продакшен",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Разработчик Python (Senior)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93790015?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Лига Цифровой Экономики",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Middle Python Developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93786395?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "100 000 – 120 000 ₽",
+          "Название компании": "HEADS and HANDS",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Python Developer (Tools)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93804537?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Lesta Games",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Backend-разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93701109?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 250 000 ₽",
+          "Название компании": "ОООGstudio",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Программист-разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93756757?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "180 000 – 250 000 ₽",
+          "Название компании": "Смартвокс ИТ",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Системный администратор Linux / Kubernetes (Middle DevOps инженер)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92895011?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "180 000 – 250 000 ₽",
+          "Название компании": "ОООРА Дельта",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Backend разработчик (Python)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/88676763?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "SL Soft",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Middle Python Developer (удаленно)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93722877?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "200 000 – 320 000 ₽",
+          "Название компании": "Apeek",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python Backend Developer (Middle)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93657907?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ЛИИС, ГК",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Senior/Middle Python Developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/89725304?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ЦРТ | Группа компаний",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Backend-разработчик / Разработчик Python",
+          "Ссылка": "https://nevel.hh.ru/vacancy/87406300?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 230 000 ₽",
+          "Название компании": "Университет ИТМО",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Senior Python Developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/91460286?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ОООБристоль, сеть магазинов",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Руководитель разработки Python",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92217665?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Группа компаний Астра",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Разработчик Python",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93627688?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ПАОРостелеком",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python-разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/89995481?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Ростелеком - Центры обработки данных",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Senior Python Backend developer / Инженер-программист (Testing Tools)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93441792?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "YADRO",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Python разработчик в отдел кибербезопасности",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93611643?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Сбер для экспертов",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Middle Backend Developer C#",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92602892?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ОООАлгоМост",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Machine Learning / Machine Learning Ops Engineer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/84270079?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Центр Методического Обеспечения Оптимизации Процессов Государственного Управления в Московской области",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Программист Python",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93459737?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "180 000 – 210 000 ₽",
+          "Название компании": "SocioTeam Сonsulting",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Разработчик Python",
+          "Ссылка": "https://nevel.hh.ru/vacancy/90789260?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "до 150 000 ₽",
+          "Название компании": "Филиал в г. Санкт-Петербург АО Концерн Радиостроения Вега",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Backend-разработчик (Senior)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93442013?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 450 000 ₽",
+          "Название компании": "ОООВайтлист",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Senior/Middle Python Developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/91413450?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ЦРТ | Группа компаний",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92951527?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "UCGP Consult",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python Backend Developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/91885582?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ОООЭвокарго",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Инженер-разработчик Python",
+          "Ссылка": "https://nevel.hh.ru/vacancy/90077186?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Максмарт",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "PHP-разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93172341?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ИПЖуравлева Елена Леонидовна",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Python developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93347073?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ОООНорд Клан",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Python разработчик (Команда MXDR)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/91795094?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "F.A.C.C.T.",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Главный Разработчик (id 127)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/91412798?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ОООГазпром ЦПС",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Разработчик на Python в финансовую платформу",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92031036?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Яндекс",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Разработчик на Python в финансовую платформу",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92031035?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Яндекс",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Backend разработчик (Java, Spring)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93302856?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "200 000 – 300 000 ₽",
+          "Название компании": "ОООТаможенная карта",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92037159?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Солар",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Middle / Senior Python Developer (удаленно)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92896866?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "RedLab",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Python разработчик (+ Go)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93297015?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "до 500 000 ₽",
+          "Название компании": "Wanted",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92116169?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Иви",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Fullstack developer (JS, Python)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93211717?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "АОАСТ",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Senior Python developer на проект InfraCloud",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93292562?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 380 000 ₽",
+          "Название компании": "Сбер для экспертов",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Middle Python developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92915494?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 150 000 ₽",
+          "Название компании": "ОООСоломон",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Senior/Lead Python developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93474550?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "OneTwoTrip",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python-разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93483545?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ОООТочка Реклама",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python Tech Lead (SL Dating)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93054381?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "GRI",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Backend-разработчик (Python)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93203760?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ОООМодум-Транс",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Разработчик Python",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92841279?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "100 000 – 150 000 ₽",
+          "Название компании": "АОНИИ МАСШТАБ",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Разработчик Python (Middle+/Senior)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/90604662?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 200 000 ₽",
+          "Название компании": "Филиал в г. Санкт-Петербург АО Концерн Радиостроения Вега",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Python-разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93091191?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 250 000 ₽",
+          "Название компании": "Далее",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Backend разработчик (Python)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92430384?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "IT-Work",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Fullstack python developer (ESC)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93142619?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Positive Technologies",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Fullstack python developer (ESC)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/91827540?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Positive Technologies",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Senior Python Backend developer / Инженер-программист (Testing Tools)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92909793?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "YADRO",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Senior Python разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93359831?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 250 000 ₽",
+          "Название компании": "ОООРаш Эдженси",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Frontend developer in Sber Robotics Lab, Middle/Senior",
+          "Ссылка": "https://nevel.hh.ru/vacancy/91859698?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Сбер для экспертов",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Разработчик Python backend",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92519276?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "100 000 – 180 000 ₽",
+          "Название компании": "ФГБОУ ВО МГТУ им. Н.Э. Баумана",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Старший инженер по сопровождению",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93160831?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Сбер для экспертов",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Middle Python-разработчик (Инженер-программист 2 категории)(01050-1)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/85608307?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 130 000 ₽",
+          "Название компании": "АОМоринформсистема-Агат, Концерн",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "ML-ops инженер",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93066834?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "АТОМ",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "ML-ops инженер",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93066483?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "АТОМ",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Senior Python-разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/91673918?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Сбер для экспертов",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python-разработчик в команду Портала ДИ",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93292351?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Сбер для экспертов",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Senior Python developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/86531354?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "до 250 000 ₽",
+          "Название компании": "ОООМедиаСофт",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Full Stack Web-разработчик / PHP-программист (удаленно)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93131040?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "70 000 – 130 000 ₽",
+          "Название компании": "SArt Technologies, Ltd",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Аналитик данных [Департамент качества и клиентского опыта]",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92821041?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ПАО«МТС» ",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Руководитель группы разработки (Python, backend)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/91311746?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "SL Soft",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Middle Fullstack Developer (Vue + Python)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/84355216?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "АОГЛОРИЯ ДЖИНС. IT",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python Developer Middle+/Senior",
+          "Ссылка": "https://nevel.hh.ru/vacancy/84852772?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ЕДИНЫЙ ЦУПИС",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Программист Python (Senior)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92571555?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "до 300 000 ₽",
+          "Название компании": "TQB Russia",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Junior DevOPS инженер",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92934530?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 50 000 ₽",
+          "Название компании": "ОООВиста",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Python-разработчик / Python-developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93083082?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Группа компаний Навигатор",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Frontend-разработчик React",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92972527?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "от 250 000 ₽",
+          "Название компании": "Далее",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Phyton Developer (Middle|Senior)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92485053?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ГК ФСК",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92889895?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Лига Цифровой Экономики",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python разработчик (Удаленно)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92628454?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Самвелян Хачатур Арменович",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Full stack разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/93051383?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "150 000 – 200 000 ₽",
+          "Название компании": "Тензор",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Инженер сопровождения платформы JaiCP",
+          "Ссылка": "https://nevel.hh.ru/vacancy/89152769?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "до 225 000 ₽",
+          "Название компании": "Outlines Technologies",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python Team Lead / Руководитель backend разработки",
+          "Ссылка": "https://nevel.hh.ru/vacancy/88200504?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "GRI",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/87463941?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ПАО «Газпром нефть» ИТ",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/87463942?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ПАО «Газпром нефть» ИТ",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Data Engineer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/89216786?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "МТС Банк. IT",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Lead/Senior Backend Developer",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92655967?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "400 000 – 500 000 ₽",
+          "Название компании": "Radium Finance",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Python разработчик (XOps)",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92431034?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Сбер для экспертов",
+          "Город": "Москва"
+     },
+     {
+          "Вакансия": "Fullstack разработчик",
+          "Ссылка": "https://nevel.hh.ru/vacancy/92428638?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "ЕДИНЫЙ ЦУПИС",
+          "Город": "Санкт-Петербург"
+     },
+     {
+          "Вакансия": "Junior / Middle разработчик Python",
+               "Ссылка": "https://nevel.hh.ru/vacancy/92781300?query=Flask%2C+Django&hhtmFrom=vacancy_search_list",
+          "Зарплата": "Не указана",
+          "Название компании": "Rubytech",
+          "Город": "Москва"
+     }
+]

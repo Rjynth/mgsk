@@ -1,61 +1,53 @@
 import requests
+from fake_headers import Headers
+from bs4 import BeautifulSoup
 import json
 
 
-def get_vacancies(keyword):
-    url = "https://api.hh.ru/vacancies"
+def get_headers():
+    return Headers(browser='chrome', os='win').generate()
 
 
-    areas = [1, 2]
+url = 'https://hh.ru/search/vacancy'
+params = {
+    'area': (1, 2),
+    'text': 'Flask, Django',
+    'page': 0,
+    'items_on_page': 20
+}
+parsed_data = []
+pages_to_check = 10
 
-    all_vacancies = []
+while params['page'] < pages_to_check:
+    hh_html = requests.get(url=url, params=params, headers=get_headers()).text
+    hh_soup = BeautifulSoup(hh_html, 'lxml')
+    tag_content = hh_soup.find('div', id='a11y-main-content')
 
-    for area in areas:
-        params = {
-            "text": keyword,
-            "area": area,
-            "per_page": 100,
-        }
-        headers = {
-            "User-Agent": "Your User Agent",
-        }
+    if tag_content is None:
+        break
 
-        response = requests.get(url, params=params, headers=headers)
+    div_item_tags = tag_content.find_all('div', class_='serp-item')
 
-        if response.status_code == 200:
-            data = response.json()
-            vacancies = data.get("items", [])
-            for vacancy in vacancies:
-
-                title_element = vacancy.get("name").lower()
-                if 'django' or 'flask' in title_element:
-                    vacancy_id = vacancy.get("id")
-                    vacancy_url = vacancy.get("alternate_url")
-                    company_name = vacancy.get("employer", {}).get("name")
-                    city = vacancy.get("area", {}).get("name")
-                    salary = vacancy.get("salary")
-                    if salary:
-                        salary_from = salary.get("from")
-                        salary_to = salary.get("to")
-                        salary_currency = salary.get("currency")
-                    else:
-                        salary_from = salary_to = salary_currency = None
-
-                    all_vacancies.append({
-                        'id': vacancy_id,
-                        'title': title_element,
-                        'company': company_name,
-                        'city': city,
-                        'salary_from': salary_from,
-                        'salary_to': salary_to,
-                        'salary_currency': salary_currency,
-                        'url': vacancy_url
-                    })
+    for div_item_tag in div_item_tags:
+        vacancy = div_item_tag.find('h3')
+        link = vacancy.find('a').get('href')
+        if div_item_tag.find('span', class_='bloko-header-section-2') is not None:
+            salary = div_item_tag.find('span', class_='bloko-header-section-2').text
         else:
-            print(f"Request failed with status code: {response.status_code}")
+            salary = "Не указана"
+        company = div_item_tag.find('a', class_='bloko-link bloko-link_kind-tertiary').text.replace('\xa0', '')
+        city = div_item_tag.find('div', class_='vacancy-serp-item__info').contents[1].contents[0]
+        parsed_data.append(
+            {
+                "Вакансия": vacancy.text,
+                "Ссылка": link,
+                "Зарплата": salary,
+                "Название компании": company,
+                "Город": city
+            }
+        )
 
-    with open('vacancies.json', 'w', encoding='utf-8') as f:
-        json.dump(all_vacancies, f, ensure_ascii=False, indent=4)
+    params['page'] += 1
 
-
-get_vacancies("python developer")
+with open('final_parced.json', 'w', encoding='utf-8') as f:
+    json.dump(parsed_data, f, ensure_ascii=False, indent=5)
